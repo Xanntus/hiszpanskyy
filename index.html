@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="theme-color" content="#f5f6fb" id="themeColor">
-<title>Hiszpański — trener słówek</title>
+<title>Hiszpańskyy</title>
 <style>
 :root{color-scheme:light;--bg:#f5f6fb;--card:#fff;--ink:#202438;--muted:#73788b;--accent:#6258d9;--line:#e6e7f0;--soft:#efeeff;--field:#fff;--shadow:#25295008}
 body.dark{color-scheme:dark;--bg:#151722;--card:#202331;--ink:#f0f1fa;--muted:#a3a8bc;--accent:#9b93ff;--line:#34384b;--soft:#302e49;--field:#191c28;--shadow:#0004}
@@ -16,11 +16,11 @@ main{width:min(100% - 24px,650px);margin:26px auto 50px}.view#home{text-align:ce
 </style>
 </head>
 <body>
-<header><nav><div class="brand">HISZPAŃSKI<span>.</span></div><button class="navbtn active" data-view="home">Trening</button><div class="dropdown"><button class="catbtn" id="catButton" aria-expanded="false">Kategorie ▾</button><div class="menu" id="catMenu"></div></div><button class="navbtn" data-view="results">Wyniki</button><button class="navbtn themebtn" id="themeToggle" type="button" aria-label="Zmień motyw" title="Zmień motyw">☾</button></nav></header>
+<header><nav><div class="brand">Hiszpańskyy<span>.</span></div><button class="navbtn active" data-view="home">Trening</button><div class="dropdown"><button class="catbtn" id="catButton" aria-expanded="false">Kategorie ▾</button><div class="menu" id="catMenu"></div></div><button class="navbtn" data-view="results">Wyniki</button><button class="navbtn themebtn" id="themeToggle" type="button" aria-label="Zmień motyw" title="Zmień motyw">☾</button></nav></header>
 <main>
 <section class="view active" id="home"><p class="eyebrow">Codzienna powtórka</p><h1>Trenuj słówka.</h1><p class="sub" id="intro">Wybierz kategorię i zacznij ćwiczyć.</p>
 <div class="card"><div class="topline"><span id="categoryLabel">Wszystko</span><span class="pill" id="remaining">…</span></div><div class="progress"><div id="progressBar"></div></div>
-<div id="questionArea"><div class="promptlabel" id="directionLabel">Przetłumacz na hiszpański</div><p class="prompt" id="prompt">Wczytywanie…</p><form class="answerrow" id="answerForm" autocomplete="off"><input class="answer" id="answerInput" name="answer" placeholder="Wpisz odpowiedź…" autocapitalize="none" spellcheck="false" enterkeyhint="done" required><button class="primary" id="checkButton">Sprawdź</button></form><div class="feedback" id="feedback" aria-live="polite"></div><div class="actions"><button class="textbtn" id="skipButton" type="button">Pomiń słówko</button><span class="small" id="streak"></span></div></div>
+<div id="questionArea"><div class="promptlabel" id="directionLabel">Przetłumacz na hiszpański</div><p class="prompt" id="prompt">Wczytywanie…</p><form class="answerrow" id="answerForm" autocomplete="off"><input class="answer" id="answerInput" name="answer" placeholder="Wpisz odpowiedź…" autocapitalize="none" spellcheck="false" enterkeyhint="done"><button class="primary" id="checkButton">Sprawdź</button></form><div class="feedback" id="feedback" aria-live="polite"></div><div class="actions"><button class="textbtn" id="skipButton" type="button">Pomiń słówko</button><span class="small" id="streak"></span></div></div>
 <div class="empty" id="completeArea" hidden><h2>Świetna robota!</h2><p>Opanowałeś już wszystkie słówka z tej puli.</p><button class="primary" id="repeatButton" type="button">Powtórz kategorię</button></div></div>
 <div class="settings"><label class="toggle"><input type="checkbox" id="reverse"> Hiszpański → polski</label><label class="toggle"><input type="checkbox" id="ignoreAccents" checked> Nie wymagaj akcentów</label></div>
 </section>
