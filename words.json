@@ -1,0 +1,658 @@
+[
+  {
+    "es": "hola",
+    "pl": "cześć",
+    "category": "Zwroty",
+    "accepted": [
+      "witaj"
+    ]
+  },
+  {
+    "es": "buenos días",
+    "pl": "dzień dobry (rano)",
+    "category": "Zwroty",
+    "accepted": [
+      "dzień dobry rano"
+    ]
+  },
+  {
+    "es": "buenas tardes",
+    "pl": "dzień dobry (po południu)",
+    "category": "Zwroty",
+    "accepted": [
+      "dobry wieczór"
+    ]
+  },
+  {
+    "es": "buenas noches",
+    "pl": "dobry wieczór / dobranoc",
+    "category": "Zwroty",
+    "accepted": [
+      "dobranoc",
+      "dobry wieczór"
+    ]
+  },
+  {
+    "es": "por favor",
+    "pl": "proszę",
+    "category": "Zwroty",
+    "accepted": [
+      "proszę bardzo"
+    ]
+  },
+  {
+    "es": "gracias",
+    "pl": "dziękuję",
+    "category": "Zwroty",
+    "accepted": [
+      "dzięki",
+      "dziękuję bardzo"
+    ]
+  },
+  {
+    "es": "de nada",
+    "pl": "nie ma za co",
+    "category": "Zwroty",
+    "accepted": [
+      "proszę"
+    ]
+  },
+  {
+    "es": "perdón",
+    "pl": "przepraszam",
+    "category": "Zwroty",
+    "accepted": [
+      "wybacz"
+    ]
+  },
+  {
+    "es": "¿cómo estás?",
+    "pl": "jak się masz?",
+    "category": "Zwroty",
+    "accepted": [
+      "jak się czujesz"
+    ]
+  },
+  {
+    "es": "me llamo…",
+    "pl": "nazywam się…",
+    "category": "Zwroty",
+    "accepted": [
+      "mam na imię…",
+      "nazywam się"
+    ]
+  },
+
+
+
+
+
+  {
+    "es": "uno",
+    "pl": "jeden",
+    "category": "Liczby",
+    "accepted": []
+  },
+  {
+    "es": "dos",
+    "pl": "dwa",
+    "category": "Liczby",
+    "accepted": []
+  },
+  {
+    "es": "tres",
+    "pl": "trzy",
+    "category": "Liczby",
+    "accepted": []
+  },
+  {
+    "es": "cuatro",
+    "pl": "cztery",
+    "category": "Liczby",
+    "accepted": []
+  },
+  {
+    "es": "cinco",
+    "pl": "pięć",
+    "category": "Liczby",
+    "accepted": []
+  },
+  {
+    "es": "seis",
+    "pl": "sześć",
+    "category": "Liczby",
+    "accepted": []
+  },
+  {
+    "es": "siete",
+    "pl": "siedem",
+    "category": "Liczby",
+    "accepted": []
+  },
+  {
+    "es": "ocho",
+    "pl": "osiem",
+    "category": "Liczby",
+    "accepted": []
+  },
+  {
+    "es": "nueve",
+    "pl": "dziewięć",
+    "category": "Liczby",
+    "accepted": []
+  },
+  {
+    "es": "diez",
+    "pl": "dziesięć",
+    "category": "Liczby",
+    "accepted": []
+  },
+  {
+    "es": "once",
+    "pl": "jedenaście",
+    "category": "Liczby",
+    "accepted": []
+  },
+  {
+    "es": "doce",
+    "pl": "dwanaście",
+    "category": "Liczby",
+    "accepted": []
+  },
+  {
+    "es": "trece",
+    "pl": "trzynaście",
+    "category": "Liczby",
+    "accepted": []
+  },
+  {
+    "es": "catorce",
+    "pl": "czternaście",
+    "category": "Liczby",
+    "accepted": []
+  },
+  {
+    "es": "quince",
+    "pl": "piętnaście",
+    "category": "Liczby",
+    "accepted": []
+  },
+  {
+    "es": "dieciséis",
+    "pl": "szesnaście",
+    "category": "Liczby",
+    "accepted": []
+  },
+  {
+    "es": "diecisiete",
+    "pl": "siedemnaście",
+    "category": "Liczby",
+    "accepted": []
+  },
+  {
+    "es": "dieciocho",
+    "pl": "osiemnaście",
+    "category": "Liczby",
+    "accepted": []
+  },
+  {
+    "es": "diecinueve",
+    "pl": "dziewiętnaście",
+    "category": "Liczby",
+    "accepted": []
+  },
+  {
+    "es": "veinte",
+    "pl": "dwadzieścia",
+    "category": "Liczby",
+    "accepted": []
+  },
+
+
+
+
+
+  {
+    "es": "agua",
+    "pl": "woda",
+    "category": "Jedzenie",
+    "accepted": []
+  },
+  {
+    "es": "pan",
+    "pl": "chleb",
+    "category": "Jedzenie",
+    "accepted": []
+  },
+  {
+    "es": "leche",
+    "pl": "mleko",
+    "category": "Jedzenie",
+    "accepted": []
+  },
+  {
+    "es": "café",
+    "pl": "kawa",
+    "category": "Jedzenie",
+    "accepted": []
+  },
+  {
+    "es": "manzana",
+    "pl": "jabłko",
+    "category": "Jedzenie",
+    "accepted": []
+  },
+  {
+    "es": "naranja",
+    "pl": "pomarańcza",
+    "category": "Jedzenie",
+    "accepted": []
+  },
+  {
+    "es": "queso",
+    "pl": "ser",
+    "category": "Jedzenie",
+    "accepted": []
+  },
+  {
+    "es": "arroz",
+    "pl": "ryż",
+    "category": "Jedzenie",
+    "accepted": []
+  },
+  {
+    "es": "carne",
+    "pl": "mięso",
+    "category": "Jedzenie",
+    "accepted": []
+  },
+  {
+    "es": "pescado",
+    "pl": "ryba",
+    "category": "Jedzenie",
+    "accepted": []
+  },
+  {
+    "es": "pollo",
+    "pl": "kurczak",
+    "category": "Jedzenie",
+    "accepted": []
+  },
+  {
+    "es": "patata",
+    "pl": "ziemniak",
+    "category": "Jedzenie",
+    "accepted": []
+  },
+  {
+    "es": "desayuno",
+    "pl": "śniadanie",
+    "category": "Jedzenie",
+    "accepted": []
+  },
+  {
+    "es": "almuerzo",
+    "pl": "obiad",
+    "category": "Jedzenie",
+    "accepted": []
+  },
+  {
+    "es": "cena",
+    "pl": "kolacja",
+    "category": "Jedzenie",
+    "accepted": []
+  },
+  {
+    "es": "comida",
+    "pl": "posiłek / jedzenie",
+    "category": "Jedzenie",
+    "accepted": []
+  },
+  {
+    "es": "postre",
+    "pl": "deser",
+    "category": "Jedzenie",
+    "accepted": []
+  },
+  {
+    "es": "fruta",
+    "pl": "owoc",
+    "category": "Jedzenie",
+    "accepted": []
+  },
+  {
+    "es": "verdura",
+    "pl": "warzywo",
+    "category": "Jedzenie",
+    "accepted": []
+  },
+
+
+
+
+
+  {
+    "es": "hoy",
+    "pl": "dzisiaj",
+    "category": "Czas",
+    "accepted": [
+      "dziś"
+    ]
+  },
+  {
+    "es": "mañana",
+    "pl": "jutro / poranek",
+    "category": "Czas",
+    "accepted": [
+      "jutro",
+      "poranek"
+    ]
+  },
+  {
+    "es": "ayer",
+    "pl": "wczoraj",
+    "category": "Czas",
+    "accepted": []
+  },
+  {
+    "es": "ahora",
+    "pl": "teraz",
+    "category": "Czas",
+    "accepted": []
+  },
+  {
+    "es": "siempre",
+    "pl": "zawsze",
+    "category": "Czas",
+    "accepted": []
+  },
+  {
+    "es": "nunca",
+    "pl": "nigdy",
+    "category": "Czas",
+    "accepted": []
+  },
+  {
+    "es": "el día",
+    "pl": "dzień",
+    "category": "Czas",
+    "accepted": []
+  },
+  {
+    "es": "la semana",
+    "pl": "tydzień",
+    "category": "Czas",
+    "accepted": []
+  },
+  {
+    "es": "el mes",
+    "pl": "miesiąc",
+    "category": "Czas",
+    "accepted": []
+  },
+  {
+    "es": "el año",
+    "pl": "rok",
+    "category": "Czas",
+    "accepted": []
+  },
+
+
+
+
+
+  {
+    "es": "casa",
+    "pl": "dom",
+    "category": "Dom",
+    "accepted": []
+  },
+  {
+    "es": "habitación",
+    "pl": "pokój",
+    "category": "Dom",
+    "accepted": []
+  },
+  {
+    "es": "puerta",
+    "pl": "drzwi",
+    "category": "Dom",
+    "accepted": []
+  },
+  {
+    "es": "ventana",
+    "pl": "okno",
+    "category": "Dom",
+    "accepted": []
+  },
+  {
+    "es": "mesa",
+    "pl": "stół",
+    "category": "Dom",
+    "accepted": []
+  },
+  {
+    "es": "silla",
+    "pl": "krzesło",
+    "category": "Dom",
+    "accepted": []
+  },
+  {
+    "es": "libro",
+    "pl": "książka",
+    "category": "Dom",
+    "accepted": []
+  },
+
+
+
+
+
+  {
+    "es": "perro",
+    "pl": "pies",
+    "category": "Zwierzęta",
+    "accepted": []
+  },
+  {
+    "es": "gato",
+    "pl": "kot",
+    "category": "Zwierzęta",
+    "accepted": []
+  },
+  {
+    "es": "pájaro",
+    "pl": "ptak",
+    "category": "Zwierzęta",
+    "accepted": []
+  },
+  {
+    "es": "caballo",
+    "pl": "koń",
+    "category": "Zwierzęta",
+    "accepted": []
+  },
+
+
+
+
+
+  {
+    "es": "rojo",
+    "pl": "czerwony",
+    "category": "Kolory",
+    "accepted": [
+      "czerwona",
+      "czerwone"
+    ]
+  },
+  {
+    "es": "azul",
+    "pl": "niebieski",
+    "category": "Kolory",
+    "accepted": [
+      "niebieska",
+      "niebieskie"
+    ]
+  },
+  {
+    "es": "verde",
+    "pl": "zielony",
+    "category": "Kolory",
+    "accepted": [
+      "zielona",
+      "zielone"
+    ]
+  },
+  {
+    "es": "negro",
+    "pl": "czarny",
+    "category": "Kolory",
+    "accepted": [
+      "czarna",
+      "czarne"
+    ]
+  },
+  {
+    "es": "blanco",
+    "pl": "biały",
+    "category": "Kolory",
+    "accepted": [
+      "biała",
+      "białe"
+    ]
+  },
+
+
+
+
+
+  {
+    "es": "grande",
+    "pl": "duży",
+    "category": "Przymiotniki",
+    "accepted": [
+      "duża",
+      "duże"
+    ]
+  },
+  {
+    "es": "pequeño",
+    "pl": "mały",
+    "category": "Przymiotniki",
+    "accepted": [
+      "mała",
+      "małe"
+    ]
+  },
+  {
+    "es": "bueno",
+    "pl": "dobry",
+    "category": "Przymiotniki",
+    "accepted": [
+      "dobra",
+      "dobre"
+    ]
+  },
+  {
+    "es": "malo",
+    "pl": "zły",
+    "category": "Przymiotniki",
+    "accepted": [
+      "zła",
+      "złe"
+    ]
+  },
+  {
+    "es": "feliz",
+    "pl": "szczęśliwy",
+    "category": "Przymiotniki",
+    "accepted": [
+      "szczęśliwa",
+      "szczęśliwe"
+    ]
+  },
+
+
+
+
+
+  {
+    "es": "ser",
+    "pl": "być (cecha / tożsamość)",
+    "category": "Czasowniki",
+    "accepted": [
+      "być"
+    ]
+  },
+  {
+    "es": "estar",
+    "pl": "być (stan / miejsce)",
+    "category": "Czasowniki",
+    "accepted": [
+      "być"
+    ]
+  },
+  {
+    "es": "tener",
+    "pl": "mieć",
+    "category": "Czasowniki",
+    "accepted": []
+  },
+  {
+    "es": "hacer",
+    "pl": "robić",
+    "category": "Czasowniki",
+    "accepted": []
+  },
+  {
+    "es": "ir",
+    "pl": "iść / jechać",
+    "category": "Czasowniki",
+    "accepted": [
+      "iść",
+      "jechać"
+    ]
+  },
+  {
+    "es": "hablar",
+    "pl": "mówić",
+    "category": "Czasowniki",
+    "accepted": []
+  },
+  {
+    "es": "comer",
+    "pl": "jeść",
+    "category": "Czasowniki",
+    "accepted": []
+  },
+  {
+    "es": "beber",
+    "pl": "pić",
+    "category": "Czasowniki",
+    "accepted": []
+  },
+  {
+    "es": "querer",
+    "pl": "chcieć / kochać",
+    "category": "Czasowniki",
+    "accepted": [
+      "chcieć",
+      "kochać"
+    ]
+  },
+  {
+    "es": "poder",
+    "pl": "móc / potrafić",
+    "category": "Czasowniki",
+    "accepted": [
+      "móc",
+      "potrafić"
+    ]
+  }
+
+
+
+
+
+]
